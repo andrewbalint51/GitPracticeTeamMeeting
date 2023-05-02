@@ -8,5 +8,9 @@ public class Random {
 
         System.out.println("Stuff");
 
+        System.out.println("something");
+
+        System.out.println("command practice");
+
     }
 }
